@@ -1,0 +1,5 @@
+* {font-family: 'Roboto Mono', monospace;}
+body { background-color: black; color: white;}
+.container { margin: 10vh 5vw 0 10vw; text-align: justify; }
+.container > #two { color: blue; }
+button { background-color: green; color: white; padding: 15px 15px 15px 15px; font-size: 26px; border: solid white; border-radius: 15px 15px 15px 15px;}
